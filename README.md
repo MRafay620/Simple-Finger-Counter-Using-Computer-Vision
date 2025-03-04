@@ -39,7 +39,7 @@ Ensure you have Python installed (preferably Python 3.7 or later). You also need
 
 1. **Clone the Repository** (or create a new Python script and copy the code):
    ```sh
-   git clone https://github.com/Simple-Finger-Counter-Using-Computer-Vision.git
+   git clone https://github.com/MRafay620/Simple-Finger-Counter-Using-Computer-Vision.git
    ```
 2. **Create a Virtual Environment (Recommended)**:
    ```sh
